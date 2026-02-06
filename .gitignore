@@ -1,0 +1,19 @@
+# --- Compilação Java ---
+*.class
+out/
+
+# --- Executáveis ---
+*.jar
+*.exe
+
+# --- Configurações e Dados do Usuário (NÃO SUBIR) ---
+# Ignora suas notas pessoais
+meusEstudos/
+# Ignora o arquivo de configuração (janela, tamanho, etc)
+grimoire.properties
+
+# --- IDEs (Caso abra no VS Code ou IntelliJ) ---
+.idea/
+.vscode/
+*.iml
+.DS_Store
