@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/5691e71c-bf94-4e24-98bf-c49384664dc5](https://github.com/user-attachments/assets/5691e71c-bf94-4e24-98bf-c49384664dc5)" alt="Grimoire Demo" width="100%" style="border-radius: 6px;">
+  <img src="https://github.com/user-attachments/assets/5691e71c-bf94-4e24-98bf-c49384664dc5" alt="Grimoire Demo" width="100%" style="border-radius: 6px;">
 </p>
 <br>
 
