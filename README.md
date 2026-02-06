@@ -86,9 +86,10 @@ To run Grimoire from anywhere in your terminal, run this inside the project fold
 echo -e '#!/bin/bash\ncd "'$(pwd)'"\njava -jar grimoire.jar > /dev/null 2>&1 &' | sudo tee /usr/local/bin/grimoire > /dev/null && sudo chmod +x /usr/local/bin/grimoire
 ```
 Now just type grimoire!
+
 ---
 
-##👥 Author
+## 👥 Author
 **Gabriel Paloni** - Computer Science Student Campinas, Brazil
 
 While my academic focus is on **AI** and **Cybersecurity**, this project serves as a practical application of data structures, software architecture, and the importance of understanding how code works "under the hood" before using frameworks.
